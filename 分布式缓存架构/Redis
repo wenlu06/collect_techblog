@@ -6,3 +6,5 @@ http://redisdoc.com/set/sadd.html
 http://redisdoc.com/set/smembers.html
 4.Redis 事务
 http://www.runoob.com/redis/redis-transactions.html
+5.Redis集群与事务
+https://www.cnblogs.com/toov5/p/9893942.html
