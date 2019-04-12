@@ -8,3 +8,5 @@ http://redisdoc.com/set/smembers.html
 http://www.runoob.com/redis/redis-transactions.html
 5.Redis集群与事务
 https://www.cnblogs.com/toov5/p/9893942.html
+6.Spring Boot2.0之 整合Redis事务
+https://www.cnblogs.com/toov5/p/9890724.html
