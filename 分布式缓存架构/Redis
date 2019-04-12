@@ -2,3 +2,5 @@
 https://blog.csdn.net/kongtiao5/article/details/82771694
 2.SADD key member [member …]（redis命令）
 http://redisdoc.com/set/sadd.html
+3.SMEMBERS key
+http://redisdoc.com/set/smembers.html
