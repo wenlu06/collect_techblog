@@ -4,3 +4,5 @@ https://blog.csdn.net/kongtiao5/article/details/82771694
 http://redisdoc.com/set/sadd.html
 3.SMEMBERS key
 http://redisdoc.com/set/smembers.html
+4.Redis 事务
+http://www.runoob.com/redis/redis-transactions.html
