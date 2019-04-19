@@ -2,3 +2,5 @@
 https://www.cnblogs.com/liaojie970/p/8043150.html
 2.自动配置@EnableAutoConfiguration
 https://blog.csdn.net/yangguosb/article/details/80889052
+3.微服务 通过EnableFeignClients调用其他服务的api
+https://www.cnblogs.com/UniqueColor/p/7130782.html
