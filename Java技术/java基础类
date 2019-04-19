@@ -14,3 +14,5 @@ https://blog.csdn.net/X2017_8_26/article/details/78848796
 https://cyc2018.github.io/CS-Notes/#/
 8.BiConsumer<T,U>用法示例(java8)
 https://www.tpyyes.com/a/java/2017/1015/283.html
+9.JDK8新特性：使用Optional避免null导致的NullPointerException
+https://blog.csdn.net/aitangyong/article/details/54564100
