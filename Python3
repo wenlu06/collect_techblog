@@ -14,3 +14,5 @@ https://blog.csdn.net/yujin2010good/article/details/79056201
 https://www.cnblogs.com/ontoweb-zp/p/9107548.html
 8.Windows下Tesseract4.0识别与中文手写字体训练
 https://blog.csdn.net/qq_37674858/article/details/80340914
+9.RuntimeError: Failed to init API, possibly an invalid tessdata
+https://blog.csdn.net/moxiao1995071310/article/details/82630996
