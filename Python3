@@ -69,5 +69,5 @@ https://blog.csdn.net/lqzdreamer/article/details/77917493
 https://www.yuanrenxue.com/crawler/crawler-more-use.html
 37.爬过这些网站才算会爬虫
 https://ask.hellobi.com/blog/python_shequ/33886
-38.python3.6 错误： ModuleNotFoundError:No module named "Crypto"
-https://blog.csdn.net/zoulonglong/article/details/79552813
+38.python3.7下使用from Crypto.Cipher import AES时发生错误：ModuleNotFoundError: No module named 'Crypto'
+https://blog.csdn.net/luckyyu1111/article/details/84145648
