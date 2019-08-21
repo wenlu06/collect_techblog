@@ -1,0 +1,31 @@
+============================================================Maven=======================================================
+1.maven打包出现的utf-8编码错误的解决
+https://blog.csdn.net/sandays_cn/article/details/70732517
+2.spring-boot项目中文乱码解决
+https://blog.csdn.net/qq_24228375/article/details/88084673
+3.Maven设置项目编码
+https://blog.csdn.net/tojohnonly/article/details/79101775
+4.pom指定java编译版本和编码
+https://blog.csdn.net/xiang__liu/article/details/80855514
+5.Maven打包生成源码包和Javadoc包
+https://blog.csdn.net/top_code/article/details/53586551
+6.Maven 教程（21）— maven-compiler-plugin 插件详解
+https://blog.csdn.net/liupeifeng3514/article/details/80236077
+7.解决 web.xml is missing and <failOnMissingWebXml> is set to true 报错
+https://www.cnblogs.com/dongyu666/p/7079414.html
+8.如何修改maven的默认jdk版本
+https://www.cnblogs.com/Hxinguan/p/6132446.html
+9.Java修改maven的默认jdk版本为1.7的方法
+https://www.jb51.net/article/134995.htm
+10.如何配置maven项目连接私服（nexus）
+https://blog.csdn.net/sinat_39789638/article/details/77918292
+11.Maven简介（五）——pom.xml
+https://elim.iteye.com/blog/2055745
+12.maven如何把依赖包也添加到可执行jar
+http://www.yayihouse.com/yayishuwu/chapter/1676
+13.pom是什么意思？
+http://www.yayihouse.com/yayishuwu/chapter/1607
+14.maven如何把对应的资源文件也打包到class目录
+http://www.yayihouse.com/yayishuwu/chapter/1606
+15.pom.xml文件的true是什么？已解决
+http://www.yayihouse.com/yayishuwu/chapter/1604
