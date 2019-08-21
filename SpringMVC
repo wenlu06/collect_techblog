@@ -16,3 +16,5 @@ https://blog.csdn.net/laravelshao/article/details/82763436
 https://blog.csdn.net/weixin_40134367/article/details/79533593
 9.spring mvc将Model中的内容加入到Session中（利用@SessionAttributes）
 https://blog.csdn.net/u012325167/article/details/52426523
+10.Spring MVC 原理探秘 - 一个请求的旅行过程
+http://www.tianxiaobo.com/2018/06/29/Spring-MVC-%E5%8E%9F%E7%90%86%E6%8E%A2%E7%A7%98-%E4%B8%80%E4%B8%AA%E8%AF%B7%E6%B1%82%E7%9A%84%E6%97%85%E8%A1%8C%E8%BF%87%E7%A8%8B/#31-追根溯源之-servlet
