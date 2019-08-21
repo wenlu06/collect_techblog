@@ -38,3 +38,5 @@ https://blog.csdn.net/ccf547461296/article/details/54022170
 https://blog.csdn.net/buyaoshuohua1/article/details/74991913/
 20.MyBatis 源码分析 - 缓存原理
 http://www.tianxiaobo.com/2018/08/25/MyBatis-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E7%BC%93%E5%AD%98%E5%8E%9F%E7%90%86/#4一级缓存
+21.MyBatis 源码分析 - 插件机制
+http://www.tianxiaobo.com/2018/08/26/MyBatis-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-%E6%8F%92%E4%BB%B6%E6%9C%BA%E5%88%B6/#3-源码分析
