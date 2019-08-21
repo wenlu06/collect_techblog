@@ -92,3 +92,32 @@ https://blog.csdn.net/hqy1719239337/article/details/83044599
 https://www.cnblogs.com/leskang/p/6029780.html
 4.LinkedList 源码分析(JDK 1.8)
 http://www.tianxiaobo.com/2018/01/31/LinkedList-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-JDK-1-8/#34-删除
+===================================================java线程===========================================================
+1.Callable和Future简述
+http://www.threadworld.cn/archives/39.html
+2.java锁的深度化
+https://www.cnblogs.com/xianshiwang/p/9986528.html
+3.面试必备之乐观锁与悲观锁
+https://blog.csdn.net/qq_34337272/article/details/81072874
+4.Java多线程系列--“JUC线程池”01之 线程池架构
+http://www.cnblogs.com/skywang12345/p/3509903.html
+5.Java多线程系列--“JUC线程池”02之 线程池原理(一)
+http://www.cnblogs.com/skywang12345/p/3509941.html
+6.Java多线程系列--“JUC线程池”03之 线程池原理(二)
+http://www.cnblogs.com/skywang12345/p/3509954.html
+7.Java多线程系列--“JUC线程池”04之 线程池原理(三)
+http://www.cnblogs.com/skywang12345/p/3509960.html
+8.Java多线程系列--“JUC线程池”05之 线程池原理(四)
+http://www.cnblogs.com/skywang12345/p/3512947.html
+9.Java多线程系列--“JUC线程池”06之 Callable和Future
+http://www.cnblogs.com/skywang12345/p/3544116.html#a2
+10.Java多线程系列--“基础篇”08之 join()
+http://www.cnblogs.com/skywang12345/p/3479275.html
+11.Java多线程系列--“JUC原子类”01之 框架
+http://www.cnblogs.com/skywang12345/p/3514589.html
+12.使用JDK1.8 CompletableFuture异步化任务处理
+https://www.cnblogs.com/aalex/p/8480112.html
+13.java并发编程学习16--CompletableFuture(三)
+https://segmentfault.com/a/1190000012859835
+14.开发中异步并行任务的总结
+https://blog.csdn.net/qq_32867467/article/details/84728960
