@@ -94,6 +94,8 @@ https://www.cnblogs.com/leskang/p/6029780.html
 http://www.tianxiaobo.com/2018/01/31/LinkedList-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-JDK-1-8/#34-删除
 5.JUnit 5 @BeforeAll和@AfterAll的用法
 https://majing.io/posts/10000009741162
+6.阿里二面：filter、interceptor、aspect应如何选择？很多人中招
+https://open.toutiao.com/a6727212676704895499/?utm_medium=webview&vivo_news_comment_data=%7B%7D&vivo_news_source=1&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b&isNews=1&showOriginalComments=true&req_id=2019082122163401001802715465806&crypt=1972&item_id=6727212676704895499&showComments=0&gy=153f010cc0128d6c3889372d9eb7d589ed00be7aa391a7c7109cf047ae2657f052c6dd160bc0cd8809db6165329e6a9048dfad2b1a931fcfb570fc0ea076bf94634ffb041ebfbcbfad36ad30b93054b2a234e05bcb584360fa9cf9b4b221b4fe92258090d2add842498f1f1d5d14b79c62d9d4183c7b8b1a63844b08629017ac6b01d2bc4471af0b661106e6cd1f2ce9&label=vivo_llq_channel&utm_source=vivoliulanqi_12&utm_campaign=open
 ===================================================java线程===========================================================
 1.Callable和Future简述
 http://www.threadworld.cn/archives/39.html
