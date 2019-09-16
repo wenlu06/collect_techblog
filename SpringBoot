@@ -1,0 +1,28 @@
+1.spring boot 使用@ConfigurationProperties
+https://www.cnblogs.com/liaojie970/p/8043150.html
+2.自动配置@EnableAutoConfiguration
+https://blog.csdn.net/yangguosb/article/details/80889052
+3.微服务 通过EnableFeignClients调用其他服务的api
+https://www.cnblogs.com/UniqueColor/p/7130782.html
+4.20.Spring-Cloud中Eureka自我保护模式和@SpringCloudApplication
+https://blog.csdn.net/niugang0920/article/details/80670047
+5.spring security中@PreAuthorize、@PostAuthorize、@PreFilter和@PostFilter四者的区别
+https://blog.csdn.net/weixin_39220472/article/details/80873268
+6.maven的spring-boot-starter-parent​的作用
+http://www.yayihouse.com/yayishuwu/chapter/1605
+7.SpringBoot入坑笔记之spring-boot-starter-web 配置文件的使用
+https://www.jb51.net/article/132641.htm
+8.spring-boot-maven-plugin插件的作用
+https://blog.csdn.net/lwj_199011/article/details/54881277
+9.Spring Boot中的@EnableAutoConfiguration原理
+https://www.jdon.com/springboot/autoconfiguration.html
+10.Spring异常处理@ExceptionHandler
+https://www.cnblogs.com/shuimuzhushui/p/6791600.html
+11.springboot学习笔记：10.springboot+atomikos+mysql+mybatis+druid+分布式事务
+https://www.cnblogs.com/zhaojiatao/p/8407276.html
+12.Spring boot Mybatis 整合（完整版）
+https://blog.csdn.net/winter_chen001/article/details/77249029
+13.spring boot错误: 找不到或无法加载主类
+https://www.cnblogs.com/wqsbk/p/8661141.html
+14.【系统学习SpringBoot】SpringBoot配置logging日志及输出日志
+https://blog.csdn.net/small_mouse0/article/details/77840582
