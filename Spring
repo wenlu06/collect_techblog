@@ -1,2 +1,4 @@
 1.@Repository、@Service、@Controller 和 @Component
 https://www.cnblogs.com/lxcmyf/p/5674399.html
+2.spring事务的传播机制新解
+https://www.cnblogs.com/baizhanshi/p/10425467.html
