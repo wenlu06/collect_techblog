@@ -1,2 +1,4 @@
 1.ByteBuffer常用方法详解
 https://www.cnblogs.com/JAYIT/p/8384476.html
+2.Java NIO ByteBuffer 的 position,limit,capacity 和flip()
+https://blog.csdn.net/hemeinvyiqiluoben/article/details/82861355
