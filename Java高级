@@ -52,3 +52,9 @@ http://www.tianxiaobo.com/2018/01/31/LinkedList-%E6%BA%90%E7%A0%81%E5%88%86%E6%9
 https://majing.io/posts/10000009741162
 6.深入理解Java中的重写和重载
 https://baijiahao.baidu.com/s?id=1617909160000795954&wfr=spider&for=pc
+7.Java的构造方法为啥不能重写
+https://zhidao.baidu.com/question/1668501831158182627.html
+8.构造函数为何不能用abstract, static, final修饰
+https://blog.csdn.net/ciai2984/article/details/78983016
+9.为什么String被设计为final
+https://blog.csdn.net/u013088059/article/details/54692472
