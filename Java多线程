@@ -38,3 +38,5 @@ https://blog.csdn.net/yin380697242/article/details/53313622
 https://www.cnblogs.com/love-jishu/p/5156081.html
 20.Java多线程：AtomicIntegerArray 原子更新数组类
 https://www.cnblogs.com/2015110615L/p/6748999.html
+21.使用Condition配合await()和signal()实现等待/通知
+https://www.cnblogs.com/Donnnnnn/p/7234934.html
