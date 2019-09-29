@@ -10,3 +10,5 @@ https://skyao.gitbooks.io/learning-netty/content/bootstrap/
 https://skyao.gitbooks.io/learning-netty/content/channel/channel.html
 6.接口channel
 https://skyao.gitbooks.io/learning-netty/content/channel/interface_Channel.html
+7.Channel Factory
+https://skyao.gitbooks.io/learning-netty/content/channel/channel_factory.html
