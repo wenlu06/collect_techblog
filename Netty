@@ -2,3 +2,7 @@
 https://www.cnblogs.com/JAYIT/p/8384476.html
 2.Java NIO ByteBuffer 的 position,limit,capacity 和flip()
 https://blog.csdn.net/hemeinvyiqiluoben/article/details/82861355
+3.类AbstractBootstrap
+https://skyao.gitbooks.io/learning-netty/content/bootstrap/class_AbstractBootstrap.html
+4.Bootstrap
+https://skyao.gitbooks.io/learning-netty/content/bootstrap/
